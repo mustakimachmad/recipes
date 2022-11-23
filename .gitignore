@@ -1,2 +1,6 @@
 *.png
-receipts/
+receipts/plots
+
+*.png
+|final.png
+
